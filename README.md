@@ -7,14 +7,15 @@ I enjoy designing processes, prototyping small utilities and exploring how AI ca
 
 ## What I’m currently working on
 
-• OBS tools for creators  
-• Custom GPT agents and workflow automation  
+• Custom GPT agents
+• Workflow Automations  
 • Lead lifecycle and scoring architecture  
+• OBS tools for creators 
 • OpsMuse: a personal lab for tools, templates and AI systems  
 
 ## What I enjoy building
 
-• Automation frameworks  
+• Automation frameworks for Marketing & RevOps
 • Data normalization and lifecycle systems  
 • Python tools for creators and teams  
 • AI assisted processes for prospecting and content  
