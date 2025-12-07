@@ -1,4 +1,4 @@
-# Hi, I'm Diane
+# Hi, I'm Diane 🙋‍♀️
 
 I work at the intersection of marketing automation, AI workflows and creative engineering.  
 My background blends GTM strategy, RevOps and hands-on systems building, helping teams turn ideas into scalable automated operations.
